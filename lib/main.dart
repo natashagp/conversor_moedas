@@ -122,6 +122,7 @@ class _HomeState extends State<Home> {
           "\$ Conversor de Moedas \$",
           style: TextStyle(color: Colors.white),
         ),
+        centerTitle: true,
         backgroundColor: Colors.amber,
       ),
       body: FutureBuilder(
